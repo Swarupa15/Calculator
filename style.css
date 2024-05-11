@@ -1,0 +1,38 @@
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 1px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 3px 0px;
+}
+.row input{
+    width: 272px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.button{
+    background-color: rgb(186, 184, 184);
+    color: black;
+}
+
